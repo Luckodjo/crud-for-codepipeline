@@ -25,7 +25,7 @@ SECRET_KEY = 'i7v=ry2mk(gkab47rq+=n@4zjdkxldb*l7a4lr920e+t1yl@f2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['172.31.10.118','Myapp-env.eba-hn98hkpg.us-east-1.elasticbeanstalk.com','myapp-env.eba-tmgm3ncj.us-east-1.elasticbeanstalk.com','codepipelinr-env.eba-g49gjgst.us-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['172.31.93.33','Myapp-env.eba-hn98hkpg.us-east-1.elasticbeanstalk.com','myapp-env.eba-tmgm3ncj.us-east-1.elasticbeanstalk.com','codepipelinr-env.eba-g49gjgst.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
